@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My_game_Balls</string>
+    <string name="button_name">start the game</string>
+    <string name="title_program">Game Balls</string>
+</resources>
